@@ -147,19 +147,3 @@ PathSeeker is provided for educational and ethical security testing purposes onl
 
 Feel free to suggest new features via [Issues](https://github.com/praveenkavi5/PathSeeker/issues)!
 ```
-
----
-
-### Notes
-1. **Assumptions**:
-   - I assumed your GitHub username is `praveenkavi5` based on your website (`https://prav33n.me`). Update this if it’s different.
-   - The script file is named `pathseeker.py`. Adjust if you use a different name.
-
-2. **Structure**:
-   - Includes all standard GitHub README sections.
-   - Uses Markdown formatting with badges, headers, and code blocks for clarity.
-   - Provides a clear warning about ethical use.
-
-3. **Customization**:
-   - Add a `LICENSE` file (e.g., MIT License) to your repo for the license section to link correctly.
-   - Replace the badge URL with a custom image or generate one at [shields.io](https://shields.io) if desired.
