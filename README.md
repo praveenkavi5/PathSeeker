@@ -6,7 +6,7 @@ PathSeeker is a Python-based tool designed to identify path traversal vulnerabil
 > **WARNING**: PathSeeker should only be used on systems you own or have explicit permission to test. Unauthorized use may violate laws and ethical guidelines.
 
 ---
-
+ 
 ## Features
 
 - **Multi-Threaded Scanning**: Speeds up testing by processing multiple payloads concurrently.
