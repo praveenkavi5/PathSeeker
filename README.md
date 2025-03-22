@@ -70,7 +70,7 @@ Enter custom wordlist file path (leave blank to use default):
 Enter max threads (default 10): 5
 
 [*] Starting PathSeeker Test...
-[*] Target: https://topads.lk/_next/image?url=TEST&w=256&q=75
+[*] Target: https://prav33n.me/_next/image?url=TEST&w=256&q=75
 [*] Parameter: url
 [*] Total payloads: 60
 [*] Max threads: 5
